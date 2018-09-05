@@ -1,0 +1,8 @@
+[package]
+name = "rust-blockparser"
+version = "0.1.0"
+authors = ["PhilippRichter <philipp.richter@gmail.com>"]
+
+[dependencies]
+bitcoin = "0.14.1"
+secp256k1 = "0.11.1"
